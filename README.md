@@ -66,3 +66,13 @@ ________________________________________
 Final Thoughts
 This analysis highlights key trends in coffee consumption across India, offering insights into demographic behaviors, spending patterns, and market preferences. These findings can help businesses refine their offerings, from tailored marketing campaigns to product innovations, catering to evolving consumer habits. 
 
+
+Explore the dataset, visualizations, and full analysis in this repository.
+
+Contributions, feedback, and discussions are welcome!
+
+LinkedIn: https://www.linkedin.com/in/giftchisom
+
+GitHub: https://www.github.com/Gift70
+
+Email: giftohamazue1@gmail.com
